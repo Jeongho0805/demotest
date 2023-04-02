@@ -2,11 +2,11 @@ package com.example.demo.bean;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-public class BBB {
+public class AAA {
 
     private final ObjectMapper objectMapper;
 
-    public BBB(ObjectMapper objectMapper) {
+    public AAA(ObjectMapper objectMapper) {
         this.objectMapper = objectMapper;
     }
 
