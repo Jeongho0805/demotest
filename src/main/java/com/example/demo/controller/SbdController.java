@@ -5,4 +5,6 @@ public class SbdController {
     private final int asdf = 3;
 
     private final int aksjdflad = 5;
+
+    private final int test2 = 4;
 }
