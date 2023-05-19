@@ -17,6 +17,13 @@
 - **수정 & 리팩토리 기간 : 2023.05.16 ~ (진행중)**
 - **배포 링크 : https://last-one.xyz**
 
+<br/>
+
+## 소개 :information_desk_person:
+
+---
+
+
 
 
 
