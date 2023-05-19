@@ -36,9 +36,12 @@
 |                                                          Backend                                                          |                                                          Backend                                                           |                                                           Frontend                                                            |                                                         Designer                                                          |
 |:-------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
 | <img src="https://github.com/Jeongho0805/demotest/assets/96610382/407d222a-55c8-4e1d-b8d6-af80a1ac2679.png"  width="300"/> | <img src="https://github.com/Jeongho0805/demotest/assets/96610382/57296b78-2f65-4997-a0fe-c4a7e924282d.png" width=300px /> |   <img src="https://github.com/Jeongho0805/demotest/assets/96610382/b5536c38-cd18-4e0b-be1f-4269c393b9bd.png" width=300px>    | <img src="https://github.com/Jeongho0805/demotest/assets/96610382/7cd3535e-14d6-4484-afe9-bf43f6173943.png" width=300px > |
-|                                           [박정호](https://github.com/Jeongho0805)                                           |                                            [황규현](https://github.com/beetrbgus)                                             |                                                [배범수](https://github.com/Bsfla)                                                |                                                          [조규원]()                                                          |
+|                                           [박정호](https://github.com/Jeongho0805)                                           |                                            [황규현](https://github.com/beetrbgus)                                             |                                                [배범수](https://github.com/Bsfla)                                                |                                                          [조규원](https://www.behance.net/ku_oni/moodboards)                                                          |
 
 
+</br>
+
+## 아키텍처 👨‍💻
 
 
 
