@@ -43,6 +43,11 @@
 
 ## 아키텍처 👨‍💻
 
+<img src="https://github.com/Jeongho0805/demotest/assets/96610382/ffe3fdbd-6cf8-487b-9ef1-a14a7a4457eb.jpg">
+
+
+
+
 
 
 
