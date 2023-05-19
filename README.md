@@ -43,7 +43,8 @@
 
 ## 아키텍처 👨‍💻
 
-<img src="https://github.com/Jeongho0805/demotest/assets/96610382/ffe3fdbd-6cf8-487b-9ef1-a14a7a4457eb.jpg?raw=true">
+![아키텍처](https://github.com/Jeongho0805/demotest/assets/96610382/2d4d542f-7436-4e41-b01f-b8071def066e)
+
 
 
 
