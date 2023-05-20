@@ -3,7 +3,7 @@
 <div align="center">
   
   ![image](https://github.com/Jeongho0805/demotest/assets/96610382/90ba03e8-8c38-4b20-9538-a02e261a6349)
-  ### 🏋 마지막 한 세트를 위한 헬스 메이트 찾기 Last One 🏋
+  ###  마지막 한 세트를 위한 헬스 메이트 찾기 Last One
 
 </div>
   
