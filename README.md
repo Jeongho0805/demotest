@@ -41,7 +41,7 @@
 
 |                                          Frontend                                          |                                                          Frontend                                                          |                                                          Frontend                                                          |
 |:------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
-| <img src="https://github.com/Jeongho0805/demotest/blob/main/img/beomsu.PNG" width=400px /> | <img src="https://github.com/Jeongho0805/demotest/assets/96610382/be84e7d3-e4ad-4207-b03c-fd0b43c29d0b.png" width=400px /> | <img src="https://github.com/Jeongho0805/demotest/assets/96610382/7fe6822a-174e-4b92-8c26-b7b0571a359c.png" width=400px /> | 
+| <img src="https://github.com/Jeongho0805/demotest/blob/main/img/beomsu.png" width=400px /> | <img src="https://github.com/Jeongho0805/demotest/assets/96610382/be84e7d3-e4ad-4207-b03c-fd0b43c29d0b.png" width=400px /> | <img src="https://github.com/Jeongho0805/demotest/assets/96610382/7fe6822a-174e-4b92-8c26-b7b0571a359c.png" width=400px /> | 
 |                              [배범수](https://github.com/Bsfla)                               |                                             [이하람](https://github.com/HalamLee)                                             |                                             [김태영](https://github.com/overtae)                                              |
 
 
